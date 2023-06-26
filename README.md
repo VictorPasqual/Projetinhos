@@ -1,20 +1,22 @@
-Projetinhos Básicos
+## Projetinhos Básicos
 
 Este repositório contém alguns projetinhos básicos que desenvolvi como parte do meu aprendizado em programação. Esses projetos são simples, mas foram úteis para praticar conceitos e aprimorar minhas habilidades de programação.
 Lista de Projetos
 
 Aqui está uma lista dos projetos disponíveis neste repositório:
-1. API de CEP
+## 1. API de CEP
 
 Arquivo: API de CEP.rar
 
 Neste projeto, desenvolvi uma API de busca de CEP utilizando uma linguagem de programação específica. A API permite consultar informações de endereço com base no CEP informado. O arquivo API de CEP.rar contém o código fonte e outros arquivos relacionados ao projeto.
-2. Calculadora
+
+ ## 2. Calculadora
 
 Arquivo: Calculadora.html
 
 Este projeto consiste em uma calculadora básica implementada em HTML. A calculadora permite realizar operações matemáticas simples, como adição, subtração, multiplicação e divisão. O arquivo Calculadora.html contém o código fonte da calculadora.
-3. Modelo CRUD em Python
+
+## 3. Modelo CRUD em Python
 
 Arquivo: Modelo CRUD em Python.py
 
